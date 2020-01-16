@@ -1,0 +1,27 @@
+body{
+	padding-top: 70px;
+	text-shadow: 2px 2px 4px #000000;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: white;
+}
+
+.navbar > .container .navbar-brand{
+	color: white;
+}
+
+.navbar-inverse{
+	background-color: #03404E;
+	color: #03404E;
+	border-color: #03404E;
+}
+
+.jumbotron{
+	background-color: #C0C7C9;
+}
+
+.poloroid{
+	width: 320px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
